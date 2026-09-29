@@ -1,0 +1,2 @@
+# susu-web-app
+A SUSU WEB APP TO EASE MANUAL WORK
